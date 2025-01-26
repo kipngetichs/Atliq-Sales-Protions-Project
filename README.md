@@ -1,4 +1,4 @@
-# AtliQ Mart SALES PROMOTIONS MARKETING DASHBOARD
+# AtliQ Mart Sales Promotions Performance Dashboard
 # Situation
 AtliQ Mart Company is  a prominent retail chain with over 50 supermarkets in southern India, they ran extensive promotions on their branded products during the festive periods of Diwali 2023 and Sankranti 2024. The sales director sought to evaluate the effectiveness of these promotions to make data-driven decisions for future campaigns. My project involved analyzing the sales data that i collected from codebasics.io website for  this period to identify which promotions succeeded and which did not, providing actionable insights for the company's upcoming promotional strategies.
 # Task
@@ -9,17 +9,26 @@ In this project, I employed advanced Power BI techniques, utilizing its powerful
 ![Capture](https://github.com/user-attachments/assets/5ac1cf70-6a89-4ccf-a69f-e639003f8fe1)
 
 # Result
-The dashboard has been a tremendous success, providing valuable insights into the progress of AtliQ Mart Company campaigns program and business performance trend. Some of the quantifiable results of the project include:
-- Diwali Campaigns   Contributes to  59% Revenue After Promotions while Sankranti Contributes 41% .
-- This are the top 5 products that responded best after promotions with highest income contributions:Atliq_Home_Essential_8_Product_Combo,Atliq_Sonamasuri_Rice (10KG),Atliq_Farm_Chakki_Atta (1KG),Atliq_waterproof_Immersion_Rod and Atliq_Double_Bedsheet_set.
-- 500 Cashback was the most successful promotion type with highest income gap than BOGOF and 33% OFF.25% OFF and 50% OFF, this promotions poorly performed.
-- Combo1 and Grocery & Stamples are among Product Categories that responded nicely after promotions than Home Appliances,Home Care and Personal Care which seems not to respond well after promotions.
-- This are top 5 cities that responded very well after promotions with highest revenue:Bengaluru,Chennai,Hyderabad,Mysuru and Coimbatore.
-# Recommendations
-- Focusing on High-Performing Campaigns: Given that the Diwali campaigns contributed 59% of the revenue post-promotions compared to Sankranti's 41%, prioritizing and allocate more resources towards Diwali promotions in the future.
-- Promoting Top-Performing Products: Continue to feature and promote top-performing products such as Atliq_Home_Essential_8_Product_Combo, Atliq_Sonamasuri_Rice (10KG), Atliq_Farm_Chakki_Atta (1KG), Atliq_waterproof_Immersion_Rod, and Atliq_Double_Bedsheet_set, as they have shown the highest income contributions.
-- Utilizing Effective Promotion Types: Leveraging the 500 Cashback and BOGOF promotion type more frequently, as they have proven to be the most successful. Reevaluating or phasing out less effective promotions like 25% OFF and 50% OFF, which did not perform well.
-- Focusing on Responsive Product Categories: Concentrating promotional efforts on product categories such as Combo1 and Grocery & Staples, which responded well to promotions. Considering reducing promotions for Home Appliances, Home Care, and Personal Care, which did not perform as well.
-- Targeting High-Performing Cities: Directing marketing and promotional efforts towards the top-performing cities: Bengaluru, Chennai, Hyderabad, Mysuru, and Coimbatore, where the response to promotions was the strongest, resulting in the highest revenue.
+# Key Insights and Recommendations:
+1. Campaign Contributions:
+- Insight: Diwali campaigns contributed 59% of revenue after promotions, while Sankranti campaigns accounted for 41%.
+- Recommendation: Focus future campaigns around Diwali, leveraging its higher revenue potential, and explore ways to optimize Sankranti campaigns further.
+2. Top-Performing Products:
+- Insight: The following products contributed the most revenue post-promotions:
+  1. Atliq_Home_Essential_8_Product_Combo
+  2. Atliq_Sonamasuri_Rice (10KG)
+  3. Atliq_Farm_Chakki_Atta (1KG)
+  4. Atliq_Waterproof_Immersion_Rod
+  5. Atliq_Double_Bedsheet_Set
+- Recommendation: Prioritize promoting these high-performing products in future campaigns to maximize revenue.
+3. Promotion Types:
+- Insight: The ₹500 Cashback promotion delivered the highest income impact, outperforming BOGOF (Buy One Get One Free) and 33% OFF discounts. Promotions like 25% OFF and 50% OFF underperformed.
+- Recommendation: Emphasize cashback and strategic discounts like BOGOF, while reevaluating or redesigning flat percentage-off promotions for better effectiveness.
+4. Product Category Performance:
+- Insight: Combo1 and Grocery & Staples performed well post-promotions, whereas Home Appliances, Home Care, and Personal Care showed weaker responses.
+- Recommendation: Invest in promoting Combo1 and Grocery & Staples further while identifying and addressing challenges in underperforming categories.
+5. City-Wise Performance:
+- Insight: The top 5 cities with the highest revenue post-promotions are Bengaluru, Chennai, Hyderabad, Mysuru, and Coimbatore.
+- Recommendation: Strengthen promotional efforts and distribution channels in these cities to maintain and increase revenue.
 # Reflection
 Reflecting on this Power BI project, it was a highly rewarding experience that showcased the power of data analysis in driving business decisions. Utilizing advanced Power BI features such as data modeling and DAX functions, I was able to integrate and analyze complex datasets to uncover meaningful insights about AtliQ Mart's promotional campaigns. The ability to identify top-performing products, effective promotional strategies, and responsive customer segments was instrumental in providing actionable recommendations to the sales director. This project not only enhanced my technical skills but also demonstrated the significant impact of data-driven decision-making in a real-world business context
